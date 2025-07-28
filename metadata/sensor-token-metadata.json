@@ -1,0 +1,15 @@
+{
+  "name": "ChainSensors Token",
+  "symbol": "SENSOR",
+  "description": "Utility & rewards token for ChainSensors IoT marketplace.",
+  "image": "https://raw.githubusercontent.com/khadira1937/chainsensors-assets/main/logos/sensor-logo-011.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/khadira1937/chainsensors-assets/main/logos/sensor-logo-011.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
